@@ -16,3 +16,8 @@ I enjoy helping non-technical people understand IT and helping businesses optimi
 
 **HoGent – Hogeschool Gent** | System & Network Administration  
 2022 – present
+* Networking: Cisco networking, routing and switching, IPv4/IPv6, VLANs, subnetting, DNS, and DHCP.
+* Systems: Linux administration, Windows Server, Active Directory, virtualization, and web hosting.
+* Automation & DevOps: Bash, PowerShell, Vagrant, Ansible, Git, and Jenkins CI/CD.
+* Cybersecurity: network traffic analysis, web security, system hardening, and authorized penetration-testing labs.
+* Development & databases: Java, Python, HTML, CSS, JavaScript, SQL, and database design.
