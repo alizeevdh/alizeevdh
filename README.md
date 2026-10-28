@@ -16,8 +16,8 @@ I enjoy helping non-technical people understand IT and helping businesses optimi
 
 **HoGent** | System & Network Administration  
 2022 – present
-- 🌐 Networking: Cisco Routing & Switching | IPv4/IPv6 | VLANs & Subnetting | DNS & DHCP
-- 🖥️ Systems & Hosting: Linux & Windows Server | Active Directory | Virtualization | Web Hosting
-- 🛡️ Cybersecurity: Traffic Analysis | Web Security | System Hardening | Security Labs
-- ⚙️ DevOps & Automation: CI/CD (Jenkins) | Infrastructure as Code (Ansible, Vagrant) | PowerShell & Bash | Git
-- 💻 Software & Data: Java | Python | Web Stack (HTML/CSS/JS) | SQL & Database Design
+🌐 Networking: Cisco Routing & Switching | IPv4/IPv6 | VLANs & Subnetting | DNS & DHCP<br>
+🖥️ Systems & Hosting: Linux & Windows Server | Active Directory | Virtualization | Web Hosting<br>
+🛡️ Cybersecurity: Traffic Analysis | Web Security | System Hardening | Security Labs<br>
+⚙️ DevOps & Automation: CI/CD (Jenkins) | Infrastructure as Code (Ansible, Vagrant) | PowerShell & Bash | Git<br>
+💻 Software & Data: Java | Python | Web Stack (HTML/CSS/JS) | SQL & Database Design<br>
