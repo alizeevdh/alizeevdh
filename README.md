@@ -1,7 +1,5 @@
 # Alizée Vander Henst
 
----
-
 ## About me
 
 I'm a Bachelor student in Applied Informatics at HoGent, specializing in System & Network Administration.
