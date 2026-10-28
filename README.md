@@ -55,14 +55,7 @@ I enjoy helping non-technical people understand IT and helping businesses optimi
 
 ## Connect with me
 
-<p align="left">
-  <a href="mailto:alizee.vanderhenst@telenet.be">
-    <img src="https://img.shields.io/badge/Email-alizee.vanderhenst%40telenet.be-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="www.linkedin.com/in/alizée-vander-henst" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/alizeevdh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+📧 **Email:** [alizee.vanderhenst@telenet.be](mailto:alizee.vanderhenst@telenet.be) <br>
+💼 **LinkedIn:** [Alizée Vander Henst](www.linkedin.com/in/alizée-vander-henst) <br>
+🐙 **GitHub:** [jouwgebruikersnaam](https://github.com/alizeevdh) <br>
+📍 **Location:** Gent, Belgium <br>
