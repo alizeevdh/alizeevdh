@@ -3,6 +3,8 @@
 ## About me
 
 I'm a Bachelor student in Applied Informatics at HoGent, specializing in System & Network Administration.
+**Email:** [alizee.vanderhenst@telenet.be](mailto:alizee.vanderhenst@telenet.be) <br>
+**LinkedIn:** [Alizée Vander Henst](www.linkedin.com/in/alizée-vander-henst) <br>
 
 ---
 
@@ -41,12 +43,3 @@ I'm a Bachelor student in Applied Informatics at HoGent, specializing in System 
 🎮 **Software Development – Alhambra Dice Game** <br>
 * Object-oriented Java application built on a structured 3-tier architecture. <br>
 * Focused on software domain analysis, relational database design (MySQL), and code quality through unit testing (JUnit) and documentation (Javadoc). <br>
-
----
-
-## Connect with me
-
-📧 **Email:** [alizee.vanderhenst@telenet.be](mailto:alizee.vanderhenst@telenet.be) <br>
-💼 **LinkedIn:** [Alizée Vander Henst](www.linkedin.com/in/alizée-vander-henst) <br>
-🐙 **GitHub:** [jouwgebruikersnaam](https://github.com/alizeevdh) <br>
-📍 **Location:** Gent, Belgium <br>
