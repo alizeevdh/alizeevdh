@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a Bachelor student in Applied Informatics at HoGent, specializing in System & Network Administration.
+I'm a Bachelor student in Applied Informatics at HoGent, specializing in System & Network Administration.<br>
 **Email:** [alizee.vanderhenst@telenet.be](mailto:alizee.vanderhenst@telenet.be) <br>
 **LinkedIn:** [Alizée Vander Henst](www.linkedin.com/in/alizée-vander-henst) <br>
 
