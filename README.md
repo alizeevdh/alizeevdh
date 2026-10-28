@@ -14,10 +14,10 @@ I enjoy helping non-technical people understand IT and helping businesses optimi
 
 ### Bachelor Applied Informatics
 
-**HoGent – Hogeschool Gent** | System & Network Administration  
+**HoGent** | System & Network Administration  
 2022 – present
-* Networking: Cisco networking, routing and switching, IPv4/IPv6, VLANs, subnetting, DNS, and DHCP.
-* Systems: Linux administration, Windows Server, Active Directory, virtualization, and web hosting.
-* Automation & DevOps: Bash, PowerShell, Vagrant, Ansible, Git, and Jenkins CI/CD.
-* Cybersecurity: network traffic analysis, web security, system hardening, and authorized penetration-testing labs.
-* Development & databases: Java, Python, HTML, CSS, JavaScript, SQL, and database design.
+🌐 Networking: Cisco Routing & Switching | IPv4/IPv6 | VLANs & Subnetting | DNS & DHCP
+🖥️ Systems & Hosting: Linux & Windows Server | Active Directory | Virtualization | Web Hosting
+🛡️ Cybersecurity: Traffic Analysis | Web Security | System Hardening | Security Labs
+⚙️ DevOps & Automation: CI/CD (Jenkins) | Infrastructure as Code (Ansible, Vagrant) | PowerShell & Bash | Git
+💻 Software & Data: Java | Python | Web Stack (HTML/CSS/JS) | SQL & Database Design
