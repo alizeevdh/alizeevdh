@@ -50,3 +50,19 @@ I enjoy helping non-technical people understand IT and helping businesses optimi
 🎮 **Software Development – Alhambra Dice Game** <br>
 * Object-oriented Java application built on a structured 3-tier architecture. <br>
 * Focused on software domain analysis, relational database design (MySQL), and code quality through unit testing (JUnit) and documentation (Javadoc). <br>
+
+---
+
+## Connect with me
+
+<p align="left">
+  <a href="mailto:alizee.vanderhenst@telenet.be">
+    <img src="https://img.shields.io/badge/Email-alizee.vanderhenst%40telenet.be-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="www.linkedin.com/in/alizée-vander-henst" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/alizeevdh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
