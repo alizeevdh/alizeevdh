@@ -22,7 +22,7 @@ I'm a Bachelor student in Applied Informatics at HoGent, specializing in System 
 
 ---
 
-## 🛠️ Projects
+## Projects
 
 🖥️ **Windows Server II – Automated AD/DNS/CA Infrastructure (HoGent)** *(In progress)* <br>
 * Fully scripted Windows Server domain deployment using Vagrant & PowerShell. <br>
