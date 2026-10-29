@@ -27,13 +27,13 @@ I'm a Bachelor student in Applied Informatics at HoGent, specializing in System 
 **Windows Server II – Automated AD/DNS/CA Infrastructure (HoGent)** *(In progress)* <br>
 * Fully scripted Windows Server domain deployment using Vagrant & PowerShell. <br>
 * Multi-Server Architecture: Automated provisioning across 3 Windows Server Core VMs (Primary DC/DNS/IIS, Secondary DNS, and CA/DHCP) plus a Windows 11 RSAT client. <br>
-<br>
+
 **Cybersecurity & Vulnerability Research (HoGent NPE)** <br>
 * Analysis and Proof-of-Concept (PoC). <br>
-<br>
+
 **System Engineering Project** <br>
 * Trajectory focused on configuring, managing, and scaling modern enterprise IT infrastructures. <br>
-<br>
+
 **Software Development – Alhambra Dice Game** <br>
 * Object-oriented Java application built on a structured 3-tier architecture. <br>
 * Focused on software domain analysis, relational database design (MySQL), and code quality through unit testing (JUnit) and documentation (Javadoc). <br>
